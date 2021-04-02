@@ -4,7 +4,7 @@
 
 **App capaz de auxiliar a análise técnica e fundamentalista de ações na bolsa de valores**
 
-Ao abrir o link
+Aplicativo neste link abaixo
 
 https://explorador-de-ativos.herokuapp.com/  
 
